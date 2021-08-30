@@ -96,7 +96,7 @@ DomainWordsDict, Chinese words dict that contains more than 68 domains, which ca
 # 关于作者
 刘焕勇，liuhuanyong，现任360人工智能研究院算法专家，前中科院软件所工程师，主要研究方向为知识图谱、事件图谱在实际业务中的落地应用。  
 得语言者得天下，得语言资源者，分得天下，得语言逻辑者，争得天下。   
-1、个人主页：https://liuhuanyong.github.io。  
-2、个人博客：https://blog.csdn.net/lhy2014/。  
-3、个人公众号：老刘说NLP。  
+1、个人主页：https://liuhuanyong.github.io    
+2、个人博客：https://blog.csdn.net/lhy2014/   
+3、个人公众号：老刘说NLP   
 欢迎对自然语言处理、知识图谱、事件图谱理论技术、技术实践等落地应用的朋友一同交流。    
